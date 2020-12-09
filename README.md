@@ -1,4 +1,4 @@
-# scond_app
+# Personal Expense App
 
 A new Flutter project.
 
